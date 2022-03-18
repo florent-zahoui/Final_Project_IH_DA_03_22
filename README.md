@@ -11,3 +11,5 @@ Plan :
 - EDA
 - Visualization on the notebook and with Tableau
 - Classification Modelling
+
+Presentation available here : https://www.canva.com/design/DAE6f16N5aM/_p0wkB32mgMqGIqRKEckJA/edit?utm_content=DAE6f16N5aM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
